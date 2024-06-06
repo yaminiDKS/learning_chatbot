@@ -1,5 +1,5 @@
 # learning_chatbot
-#Overview
+Overview
 This project implements a simple learning chatbot using Python. The chatbot learns from user interactions and improves its responses over time. It utilizes the Natural Language Toolkit (nltk) for basic NLP operations and pickle for data persistence.
 Features
 Interactive Chat: Engage in a conversation with the chatbot.
